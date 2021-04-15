@@ -1,0 +1,43 @@
+<?xml version='1.0' ?>
+<restaurants>
+    <restaurant delivery="true" type="xs:string" use = "required">
+        <name>On The Border</name>
+        <contact>
+            <phone>8886826882</phone>
+            <email>catering@ontheborder.com</email>
+        </contact>
+        <website>https://www.ontheborder.com</website>
+    </restaurant>
+    <restaurant delivery="true" type="xs:string" use = "required">
+        <name>Outback Steakhouse</name>
+        <contact>
+            <phone>8132821225</phone>
+            <email>emails@email.dine-rewards.com</email>
+        </contact>
+        <website>https://www.outback.com</website>
+    </restaurant>
+    <restaurant delivery="true" type="xs:string" use = "required">
+        <name>Postino Annex</name>
+        <contact>
+            <phone>4809271111</phone>
+            <email>info@upwardprojects.com</email>
+        </contact>
+        <website>https://www.postinowinecafe.com</website>
+    </restaurant>
+    <restaurant delivery="true" type="xs:string" use = "required">
+        <name>Buffalo Wild Wings</name>
+        <contact>
+            <phone>4808589464</phone>
+            <email>blazinrewards@emailinfo.buffalowildwings.com</email>
+        </contact>
+        <website>https://www.buffalowildwings.com</website>
+    </restaurant>
+    <restaurant delivery="false" type="xs:string" use = "required">
+        <name>El Taco Santo</name>
+        <contact>
+            <phone>4805770693</phone>
+            <email>cesar@eltacosanto.com</email>
+        </contact>
+        <website>https://www.eltacosanto.com</website>
+    </restaurant>
+</restaurants>
